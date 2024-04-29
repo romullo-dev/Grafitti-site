@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 7px;
+
+}
+
+
+header img{
+    width: 169px;
+    height: 66px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.cabecario{
+    background-color: rgb(255, 255, 255);
+    list-style: none;
+    flex-direction: row;
+    display: flex;
+    
+}
+
+header{
+    display: flex;    
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height : 90px;
+
+   }
+
+.button_login{
+    color: antiquewhite;
+    background-color: #005CA7;
+    height: 51px;
+    width: 166px;
+} 
+
+header li a{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-decoration: none;
+}
+  
+#sec_princ {
+    background-color: #A0B9D9;
+    height: 438px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+
+    
+}
+
+.xl1 img {
+    width: 607px;
+    height: 344px;    
+}
