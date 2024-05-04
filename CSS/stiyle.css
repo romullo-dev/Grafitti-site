@@ -61,3 +61,15 @@ header li a{
     width: 607px;
     height: 344px;    
 }
+
+/*rodapé*/
+
+#footer_prici {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #185DA9;
+
+}
+
