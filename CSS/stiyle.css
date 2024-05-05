@@ -5,7 +5,7 @@
 }
 
 
-header img{
+.logo{
     width: 169px;
     height: 66px;
 }
@@ -71,5 +71,11 @@ header li a{
     align-items: center;
     background-color: #185DA9;
 
+}
+
+.dados_empre{
+    display: flex;
+
+    flex-direction: row;
 }
 
